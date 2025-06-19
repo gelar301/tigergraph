@@ -1,0 +1,7 @@
+{
+  "nodeEnv": "development",
+  "apiUrl": "/rest",
+  "cryptoAesKey": "58re97235srasdf24sdfaa2fe03ec434c0a911182",
+  "webSocketUrl": "ws://172.18.59.98:7000",
+  "wsPort": "7000"
+}
